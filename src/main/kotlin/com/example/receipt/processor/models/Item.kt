@@ -1,4 +1,4 @@
-package com.example.receipt.processor.model
+package com.example.receipt.processor.models
 
 import java.math.BigDecimal
 
